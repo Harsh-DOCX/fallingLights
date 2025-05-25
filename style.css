@@ -82,3 +82,9 @@ body {
     z-index: 1000;
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    #game{
+        height: 75dvh;
+    }
+}
